@@ -1,7 +1,7 @@
-<h1 align="center">Solvi</h1>
+<h1 align="center">Noma</h1>
 
-- We are currently working on the [Solvi](https://github.com/Peixe2b/Solvi)
-- We strive to improve the [OrderRequester](https://github.com/Peixe2b/OrderDesk-Web-site)
+- We are currently working on the Noma Project
+- We provide and bill for technical support and electrical installations.
 
 ## About us
 
